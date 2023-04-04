@@ -1,0 +1,6 @@
+pymongo
+passlib
+fastapi_jwt_auth
+redis
+fastapi-jwt-auth[asymmetric]
+python-decouple
